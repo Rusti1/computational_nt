@@ -1,0 +1,9 @@
+program/texput.log
+program/program_comp_nt.tex
+program/program_comp_nt.out
+program/program_comp_nt.log
+program/program_comp_nt.blg
+program/program_comp_nt.bbl
+program/program_comp_nt.aux
+case_studies/bsd_experiments/.ipynb_checkpoints/day_1_exercises-checkpoint.ipynb
+case_studies/bsd_experiments/main.py
