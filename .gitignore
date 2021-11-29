@@ -7,3 +7,4 @@ program/program_comp_nt.bbl
 program/program_comp_nt.aux
 case_studies/bsd_experiments/.ipynb_checkpoints/
 case_studies/bsd_experiments/main.py
+case_studies/verify_cnf/main.sage
